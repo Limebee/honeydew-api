@@ -17,37 +17,37 @@ const drinks = {
         'name': 'Mean Green',
         'drinkType': 'Juice',
         'ingredients': 'spinach, kale, celery, ginger, parsley, dandelion',
-        'benefits': 'reduces inflamation',
+        'benefits': 'reduces inflamation'
     },
     'lemon flush': {
         'name': 'Lemon Flush',
         'drinkType': 'Juice',
         'ingredients': 'lemon, apple, ginger, cayenne',
-        'benefits': 'detoxes body, helps with nasuea ',
+        'benefits': 'detoxes body, helps with nasuea'
     },
     'liver cleanse': {
         'name': 'Liver Cleanse',
         'drinkType': 'Juice',
         'ingredients': 'beet, green apple, dandelion',
-        'benefits': 'promotes liver health,',
+        'benefits': 'promotes liver health'
     },
 
     'celery craze': {
         'name': 'Celery Craze',
         'drinkType': 'Juice',
         'ingredients': 'celery',
-        'benefits': 'reduces inflamation, hydrates the body',
+        'benefits': 'reduces inflamation, hydrates the body'
     },
     'liquid sunshine': {
         'drink type': 'Juice',
         'ingredients': 'orange, carrot, ginger',
-        'benefits': 'reduces kidney stone risk, boosts immunity, reduces cancer risk',
+        'benefits': 'reduces kidney stone risk, boosts immunity, reduces cancer risk'
     },
     'peanut butter crunch': {
         'name': 'Peanut Butter Crunch',
         'drinkType': 'Smoothie',
         'ingredients': 'banana, peanut butter, cacao, garnola, protien powder',
-        'benefits': 'improves heart health, helps with weight loss',
+        'benefits': 'improves heart health, helps with weight loss'
     },
     'aloha suprise': {
         'name': 'Aloha Suprise',
@@ -59,13 +59,13 @@ const drinks = {
         'name': 'Berry Bliss',
         'drinkType': 'Smoothie',
         'ingredients': 'banana, strawberry, raspberry, bluberry, almond milk, protien powder',
-        'benefits': 'high fiber, helps lower cholestrol, loaded with antioxidants',
+        'benefits': 'high fiber, helps lower cholestrol, loaded with antioxidants'
     },
     'boost shot': {
         'name': 'Boost Shot',
         'drinkType': 'Shot',
         'ingredients': 'lemon, ginger, garlic, flax oil, cayenne',
-        'benefits': 'boost immunity, help with congestion',
+        'benefits': 'boost immunity, help with congestion'
     },
 
     
