@@ -6,11 +6,11 @@ const PORT = 8000;
 app.use(cors())
 
 const drinks = {
-    'abc': {
-        'name': 'ABC',
-        'drinkType': 'Juice',
-        'ingredients': 'apple, beet, carrot',
-        'benefits': 'boosts immune system'
+    "abc": {
+        "name" : 'ABC',
+        "drinkType": 'Juice',
+        "ingredients": 'apple, beet, carrot',
+        "benefits": 'boosts immune system'
     },
 
     'mean green': {
