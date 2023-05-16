@@ -10,7 +10,8 @@ const drinks = {
         "name" : 'ABC',
         "drinkType": 'Juice',
         "ingredients": 'apple, beet, carrot',
-        "benefits": 'boosts immune system'
+        "benefits": 'boosts immune system',
+        "src": "abc.jpg"
     },
 
     'mean green': {
