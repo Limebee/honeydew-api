@@ -11,7 +11,7 @@ const drinks = {
         "drinkType": 'Juice',
         "ingredients": 'apple, beet, carrot',
         "benefits": 'boosts immune system',
-        "src": "https://www.pexels.com/photo/red-liquid-in-clear-plastic-bottle-4443472/"
+        "src": "https://images.pexels.com/photos/4443472/pexels-photo-4443472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     'mean green': {
