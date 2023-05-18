@@ -80,7 +80,7 @@ const drinks = {
         'benefits': 'helps support heart health, good source of fiber',
         'src': "https://images.pexels.com/photos/8805115/pexels-photo-8805115.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     
-    }
+    },
     
     'boost shot': {
         'name': 'Boost Shot',
