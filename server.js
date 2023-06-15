@@ -46,7 +46,7 @@ const drinks = {
     },
     'liquid sunshine': {
         'name': "Liquid Sunshine",
-        'drink type': 'Juice',
+        'drinkType': 'Juice',
         'ingredients': 'orange, carrot, ginger',
         'benefits': 'reduces kidney stone risk, boosts immunity, reduces cancer risk',
         'src': "https://images.pexels.com/photos/4443448/pexels-photo-4443448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
